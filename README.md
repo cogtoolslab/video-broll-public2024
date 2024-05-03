@@ -77,4 +77,4 @@ See `/web_experiment/` for our web experiment for collecting transcript annotati
 
 • `/stimuli/` contains a jupyter notebook for transcript stimuli <br>
 • `/results/csv/processed/` contains csv results files <br>
-`/analysis/` contains jupyter notebooks used for data analysis
+• `/analysis/` contains jupyter notebooks used for data analysis
