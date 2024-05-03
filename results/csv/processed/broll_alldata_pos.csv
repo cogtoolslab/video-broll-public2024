@@ -1,0 +1,121 @@
+object,goal,type,count,prop
+african-kanzu,entertaining,adj,1411,24.05386975792704
+african-kanzu,entertaining,adverb,32,0.5455165359699966
+african-kanzu,entertaining,noun,3232,55.09717013296965
+african-kanzu,entertaining,proper noun,1014,17.286055233549266
+african-kanzu,entertaining,verb,177,3.0173883395840435
+african-kanzu,informative,adj,1307,21.81241655540721
+african-kanzu,informative,adverb,24,0.4005340453938585
+african-kanzu,informative,noun,3170,52.903871829105476
+african-kanzu,informative,proper noun,1338,22.32977303070761
+african-kanzu,informative,verb,153,2.553404539385848
+almas-caviar,entertaining,adj,1156,20.73542600896861
+almas-caviar,entertaining,adverb,178,3.192825112107623
+almas-caviar,entertaining,noun,2587,46.403587443946186
+almas-caviar,entertaining,proper noun,823,14.762331838565023
+almas-caviar,entertaining,verb,831,14.905829596412556
+almas-caviar,informative,adj,1048,18.408571930440893
+almas-caviar,informative,adverb,216,3.794133145968734
+almas-caviar,informative,noun,2296,40.33023010714913
+almas-caviar,informative,proper noun,1104,19.39223607939575
+almas-caviar,informative,verb,1029,18.074828737045497
+cuenca,entertaining,adj,1267,22.373300370828183
+cuenca,entertaining,adverb,54,0.9535581847077521
+cuenca,entertaining,noun,2470,43.61645770792866
+cuenca,entertaining,proper noun,1669,29.47201130143034
+cuenca,entertaining,verb,203,3.584672435105068
+cuenca,informative,adj,1213,21.65298107818636
+cuenca,informative,adverb,38,0.6783291681542306
+cuenca,informative,noun,2236,39.914316315601575
+cuenca,informative,proper noun,1887,33.68439842913245
+cuenca,informative,verb,228,4.069975008925384
+dugong,entertaining,adj,1736,29.858961128310973
+dugong,entertaining,adverb,116,1.9951840385276916
+dugong,entertaining,noun,3185,54.781561747506025
+dugong,entertaining,proper noun,264,4.540763673890609
+dugong,entertaining,verb,513,8.823529411764707
+dugong,informative,adj,1988,32.627605448875755
+dugong,informative,adverb,113,1.8545872312489744
+dugong,informative,noun,3053,50.106679796487775
+dugong,informative,proper noun,509,8.353848678811751
+dugong,informative,verb,430,7.057278844575743
+indonesian-kebaya,entertaining,adj,1359,22.55227348157982
+indonesian-kebaya,entertaining,adverb,70,1.1616329239960173
+indonesian-kebaya,entertaining,noun,3932,65.250580816462
+indonesian-kebaya,entertaining,proper noun,373,6.189844009293063
+indonesian-kebaya,entertaining,verb,292,4.845668768669101
+indonesian-kebaya,informative,adj,1458,23.7691555265732
+indonesian-kebaya,informative,adverb,54,0.8803390935767852
+indonesian-kebaya,informative,noun,3730,60.80860776002608
+indonesian-kebaya,informative,proper noun,582,9.488099119660905
+indonesian-kebaya,informative,verb,310,5.053798500163026
+kopi-luwak,entertaining,adj,1624,27.252894781003523
+kopi-luwak,entertaining,adverb,236,3.9603960396039604
+kopi-luwak,entertaining,noun,3053,51.23342842758852
+kopi-luwak,entertaining,proper noun,685,11.495217318342004
+kopi-luwak,entertaining,verb,361,6.0580634334619905
+kopi-luwak,informative,adj,1509,24.814997533300446
+kopi-luwak,informative,adverb,186,3.058707449432659
+kopi-luwak,informative,noun,3091,50.83045551718467
+kopi-luwak,informative,proper noun,941,15.474428547936196
+kopi-luwak,informative,verb,354,5.821410952146029
+lichinga,entertaining,adj,1317,22.038152610441767
+lichinga,entertaining,adverb,5,0.08366800535475234
+lichinga,entertaining,noun,2721,45.532128514056225
+lichinga,entertaining,proper noun,1708,28.5809906291834
+lichinga,entertaining,verb,225,3.7650602409638556
+lichinga,informative,adj,1212,20.049627791563278
+lichinga,informative,adverb,5,0.0827129859387924
+lichinga,informative,noun,2619,43.32506203473945
+lichinga,informative,proper noun,2020,33.41604631927213
+lichinga,informative,verb,189,3.1265508684863526
+mongolian-deel,entertaining,adj,1711,28.090625513052043
+mongolian-deel,entertaining,adverb,10,0.16417665407978985
+mongolian-deel,entertaining,noun,3162,51.91265802002955
+mongolian-deel,entertaining,proper noun,803,13.183385322607124
+mongolian-deel,entertaining,verb,405,6.6491544902314885
+mongolian-deel,informative,adj,1834,30.164473684210524
+mongolian-deel,informative,adverb,19,0.3125
+mongolian-deel,informative,noun,3022,49.703947368421055
+mongolian-deel,informative,proper noun,819,13.470394736842106
+mongolian-deel,informative,verb,386,6.348684210526316
+murnong,entertaining,adj,1817,31.07576534975201
+murnong,entertaining,adverb,73,1.2485035060714897
+murnong,entertaining,noun,3113,53.24097827945955
+murnong,entertaining,proper noun,287,4.908500085513938
+murnong,entertaining,verb,557,9.526252779203011
+murnong,informative,adj,1842,30.25127278699294
+murnong,informative,adverb,70,1.1496140581376253
+murnong,informative,noun,3230,53.046477254064705
+murnong,informative,proper noun,438,7.193299392346855
+murnong,informative,verb,509,8.359336508457876
+saola,entertaining,adj,1359,24.319971367215462
+saola,entertaining,adverb,181,3.2390837508947743
+saola,entertaining,noun,3178,56.87186828919112
+saola,entertaining,proper noun,340,6.084466714387974
+saola,entertaining,verb,530,9.484609878310666
+saola,informative,adj,1268,22.15234102026555
+saola,informative,adverb,120,2.0964360587002098
+saola,informative,noun,3146,54.96156533892383
+saola,informative,proper noun,605,10.56953179594689
+saola,informative,verb,585,10.220125786163523
+vaquita,entertaining,adj,1734,29.91718426501035
+vaquita,entertaining,adverb,109,1.880607315389924
+vaquita,entertaining,noun,3114,53.72670807453416
+vaquita,entertaining,proper noun,283,4.882677708764666
+vaquita,entertaining,verb,556,9.592822636300898
+vaquita,informative,adj,1769,29.7111185757474
+vaquita,informative,adverb,81,1.3604299630500505
+vaquita,informative,noun,3157,53.02317769566678
+vaquita,informative,proper noun,499,8.380920389654015
+vaquita,informative,verb,448,7.524353375881761
+vilnius,entertaining,adj,1267,20.980294750786555
+vilnius,entertaining,adverb,6,0.09935419771485346
+vilnius,entertaining,noun,2802,46.39841033283656
+vilnius,entertaining,proper noun,1548,25.633383010432194
+vilnius,entertaining,verb,416,6.88855770822984
+vilnius,informative,adj,1203,20.0199700449326
+vilnius,informative,adverb,11,0.18305874521551008
+vilnius,informative,noun,2478,41.23814278582127
+vilnius,informative,proper noun,1958,32.58445664836079
+vilnius,informative,verb,359,5.9743717756698285
