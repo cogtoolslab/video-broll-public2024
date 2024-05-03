@@ -50,12 +50,12 @@ To generate word selections, we randomly sampled words from the first sentence o
 
 (3) Visual concreteness: 
 Because B-roll is inherently visual, we evaluated whether participants prioritized words more strongly evoking visual imagery. 
-Using visual concreteness ratings \cite{brysbaert2014concreteness} (1 = abstract, 5 = concrete), we generated concreteness scores for each word in the transcripts. 
-Building on work leveraging these scores to auto-generate slideshow imagery \cite{leake2020generating}, we randomly sampled words scoring > 4.5 and filled in remaining word selections, if needed, with words scoring > 3.
+Using visual concreteness ratings (Brysbaert, Warriner, & Kuperman, 2014) (1 = abstract, 5 = concrete), we generated concreteness scores for each word in the transcripts. 
+Building on work leveraging these scores to auto-generate slideshow imagery (Leake, Shin, Kim, & Agrawala, 2020), we randomly sampled words scoring > 4.5 and filled in remaining word selections, if needed, with words scoring > 3.
 We predicted people would prioritize more visually concrete words in both goal conditions. 
 
 Specifically, we predicted participants prioritizing entertainment would prefer more visual-based imagery and select words with higher concreteness scores.
-By contrast, word concreteness has been shown to increase memorability \cite{fliessbach2006effect, paivio1994concreteness} and so we predicted participants might favor portraying more visually concrete words to increase viewer memory retention. 
+By contrast, word concreteness has been shown to increase memorability and so we predicted participants might favor portraying more visually concrete words to increase viewer memory retention. 
 
 We also evaluated how large language models, like GPT-3.5 and GPT-4, performed on the same task.
 
