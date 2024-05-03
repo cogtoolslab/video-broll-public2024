@@ -16,10 +16,18 @@ Half of participants helped produce _informative_ videos intended to help viewer
   <img width="100%" src="repo_mats/methods.png"></img>
 </p>
 
+# Results
+Participants prioritizing informativity highlighted more proper nouns and fewer nouns and adverbs, relative to those prioritizing entertainment. We did not find significant differences in the frequency of verbs or adjectives between goal conditions. However, we compared the proportion of proper nouns, nouns, adjectives, verbs, and adverbs in participants' highlighted text segments against the base rate of proper nouns, nouns, adjectives, verbs, and adverbs in the transcripts. Across both conditions, participants highlighted more adjectives but fewer verbs, relative to the transcript base rate of adjectives and verbs.
+Additionally, participants in both conditions highlighted more proper nouns and nouns and less adverbs, relative to the transcript base rate of proper nouns and adverbs. 
+These results indicate that video content creation goals systematically shifted which words participants prioritized within the video transcripts. 
+<p align="center" style="font-size: smaller">
+  <img width="100%" src="repo_mats/pos.png"></img>
+</p>
+
 ### Predicting human visual concept selection using text selection models
 What might explain how people select visual concepts for B-roll in informative or entertaining videos? 
 
-To explore this, we evaluated several heuristic approaches for text selection and compared their alignment to human judgments. For each model, we generated simulated datasets consisting of the same number of word selections as participants within each goal condition. 
+We evaluated several heuristic approaches for text selection and compared their alignment to human judgments. For each model, we generated simulated datasets consisting of the same number of word selections as participants within each goal condition. 
 We then employed Jensen–Shannon divergence (JSD) to measure the difference between the probability of a word being selected by a model against the observed frequency of that same word being selected by human participants (0 = identical alignment). 
 We tested three heuristic models: 
 
@@ -42,14 +50,25 @@ By contrast, word concreteness has been shown to increase memorability \cite{fli
 
 We also evaluated how large language models, like GPT-3.5 and GPT-4, performed on the same task.
 
-# Results
-We found that participants tended 
+As a baseline for human consistency, we calculated the JSD between the random samples of goal conditions from our split-half reliability test. We also developed two baseline models by randomly sampling nouns, including proper nouns, and adjectives from the transcripts. 
+
 <p align="center" style="font-size: smaller">
   <img width="100%" src="repo_mats/models.png"></img>
 </p>
 
+Our baseline model randomly sampling nouns (including proper nouns) and adjectives outperformed all other models, including sampling only nouns, high frequency words, topic sentence words, and visually concrete words. 
+This model also outperformed GPT-3.5 and GPT-4.
+
+These results suggest that when participants selected visual concepts, they likely prioritized adjective and noun or adjective and proper noun pairings, consistent with our prior finding that participants included approximately 1.88 words per highlighted text segment. 
+Moreover, these analyses indicated participants selected words beyond only topic sentences, although they also did not merely prioritize frequently occurring words throughout transcripts.
+Additionally, these data demonstrate that participants tended to select words lower in visual concreteness.
+
+This may be explained by the fact that participants prioritizing informativity appeared to select numerical words (e.g., time, dimensions) and more abstract words (e.g., "conservation", "endangered", "craftsmanship"), likely low in visual concreteness. 
+Participants prioritizing entertainment also appeared to select words with high emotional valence but, again, likely low in visual concreteness (e.g., "elusive", "grace", "gentle"). 
+Overall, these findings suggest more nuanced models are needed to approximate more fine-grain human-like content creation goals and their impact on B-roll visual concept selection. 
+
 ## How to navigate this repository
-• `/web_experiment/` contains our web experiment for collecting transcript annotations. This experiment was built using JsPsych: https://www.jspsych.org/7.2/
+• `/web_experiment/` contains our web experiment for collecting transcript annotations. This experiment was built using JsPsych: https://www.jspsych.org/7.2/ <br>
+• `/stimuli/` contains a jupyter notebook for transcript stimuli <br>
 • `/results/csv/processed/` contains csv results files <br>
-`/web_experiment/` contains
 `/analysis/` contains jupyter notebooks used for data analysis
