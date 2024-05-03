@@ -58,7 +58,7 @@ We also evaluated how large language models, like GPT-3.5 and GPT-4, performed o
 As a baseline for human consistency, we calculated the JSD between the random samples of goal conditions from a split-half reliability test. We also developed two baseline models by randomly sampling nouns, including proper nouns, and adjectives from the transcripts. 
 
 <p align="center" style="font-size: smaller">
-  <img width="50%" src="repo_mats/models.png"></img>
+  <img width="65%" src="repo_mats/models.png"></img>
 </p>
 
 Our baseline model randomly sampling nouns (including proper nouns) and adjectives outperformed all other models, including sampling only nouns, high frequency words, topic sentence words, and visually concrete words. 
