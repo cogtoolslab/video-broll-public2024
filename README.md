@@ -17,7 +17,9 @@ Half of participants helped produce _informative_ videos intended to help viewer
 </p>
 
 # Results
-Participants prioritizing informativity highlighted more proper nouns and fewer nouns and adverbs, relative to those prioritizing entertainment. We did not find significant differences in the frequency of verbs or adjectives between goal conditions. However, we compared the proportion of proper nouns, nouns, adjectives, verbs, and adverbs in participants' highlighted text segments against the base rate of proper nouns, nouns, adjectives, verbs, and adverbs in the transcripts. Across both conditions, participants highlighted more adjectives but fewer verbs, relative to the transcript base rate of adjectives and verbs.
+Participants prioritizing informativity highlighted more proper nouns and fewer nouns and adverbs, relative to those prioritizing entertainment. We did not find significant differences in the frequency of verbs or adjectives between goal conditions. 
+
+However, we compared the proportion of proper nouns, nouns, adjectives, verbs, and adverbs in participants' highlighted text segments against the base rate of proper nouns, nouns, adjectives, verbs, and adverbs in the transcripts. Across both conditions, participants highlighted more adjectives but fewer verbs, relative to the transcript base rate of adjectives and verbs.
 Additionally, participants in both conditions highlighted more proper nouns and nouns and less adverbs, relative to the transcript base rate of proper nouns and adverbs. 
 These results indicate that video content creation goals systematically shifted which words participants prioritized within the video transcripts. 
 <p align="center" style="font-size: smaller">
