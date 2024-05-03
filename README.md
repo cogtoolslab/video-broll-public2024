@@ -36,15 +36,15 @@ We evaluated several heuristic approaches for text selection and compared their 
 We then employed Jensen–Shannon divergence (JSD) to measure the difference between the probability of a word being selected by a model against the observed frequency of that same word being selected by human participants (0 = identical alignment). 
 We tested three heuristic models: 
 
-**Word frequency**
+**Word frequency** <br>
 Insofar as people prioritize visual concepts highly relevant to a video topic, we predicted people would be biased to choose words appearing at a higher frequency within transcripts. 
 To generate word selections, we randomly sampled the top 20 most frequently included words from each transcript. 
 
-**Topic sentence selection**
+**Topic sentence selection** <br>
 To the extent that topic sentence expresses the main idea of a paragraph, we evaluated whether people are biased to select words from the first sentence of each transcript paragraph.
 To generate word selections, we randomly sampled words from the first sentence of each transcript paragraph, excluding stopwords.
 
-**Visual concreteness**
+**Visual concreteness** <br>
 Because B-roll is inherently visual, we evaluated whether participants prioritized words more strongly evoking visual imagery. 
 Using visual concreteness ratings (Brysbaert, Warriner, & Kuperman, 2014) (1 = abstract, 5 = concrete), we generated concreteness scores for each word in the transcripts. 
 Building on work leveraging these scores to auto-generate slideshow imagery (Leake, Shin, Kim, & Agrawala, 2020), we randomly sampled words scoring > 4.5 and filled in remaining word selections, if needed, with words scoring > 3.
