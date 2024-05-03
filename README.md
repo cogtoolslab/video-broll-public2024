@@ -73,7 +73,8 @@ Participants prioritizing entertainment also appeared to select words with high 
 Overall, these findings suggest more nuanced models are needed to approximate more fine-grain human-like content creation goals and their impact on B-roll visual concept selection. 
 
 ## How to navigate this repository
-See `/web_experiment/` for our web experiment for collecting transcript annotations. This experiment was built using JsPsych: https://www.jspsych.org/7.2/ <br>
+See `/web_experiment/` for our web experiment for collecting transcript annotations. This experiment was built using JsPsych: https://www.jspsych.org/7.2/
+
 • `/stimuli/` contains a jupyter notebook for transcript stimuli <br>
 • `/results/csv/processed/` contains csv results files <br>
 `/analysis/` contains jupyter notebooks used for data analysis
