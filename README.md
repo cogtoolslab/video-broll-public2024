@@ -18,7 +18,7 @@ Half of participants helped produce _informative_ videos intended to help viewer
   <img width="100%" src="repo_mats/methods.png"></img>
 </p>
 
-# Results
+### Results
 ### Measuring impact of content creation goals on human visual concept selection
 Participants prioritizing informativity highlighted more proper nouns and fewer nouns and adverbs, relative to those prioritizing entertainment. We did not find significant differences in the frequency of verbs or adjectives between goal conditions. 
 
