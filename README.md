@@ -49,7 +49,7 @@ We found that participants tended
 </p>
 
 ## How to navigate this repository
-See `/web_experiment/` for our web experiment for collecting transcript annotations. This experiment was built using JsPsych: https://www.jspsych.org/7.2/
-
+• `/web_experiment/` contains our web experiment for collecting transcript annotations. This experiment was built using JsPsych: https://www.jspsych.org/7.2/
 • `/results/csv/processed/` contains csv results files <br>
-• `/js/` contains JsPsych plugins, as well as custom written plugins <br>
+`/web_experiment/` contains
+`/analysis/` contains jupyter notebooks used for data analysis
