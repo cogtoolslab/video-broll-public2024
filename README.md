@@ -55,7 +55,7 @@ By contrast, word concreteness has been shown to increase memorability and so we
 
 We also evaluated how large language models, like GPT-3.5 and GPT-4, performed on the same task.
 
-As a baseline for human consistency, we calculated the JSD between the random samples of goal conditions from our split-half reliability test. We also developed two baseline models by randomly sampling nouns, including proper nouns, and adjectives from the transcripts. 
+As a baseline for human consistency, we calculated the JSD between the random samples of goal conditions from a split-half reliability test. We also developed two baseline models by randomly sampling nouns, including proper nouns, and adjectives from the transcripts. 
 
 <p align="center" style="font-size: smaller">
   <img width="100%" src="repo_mats/models.png"></img>
