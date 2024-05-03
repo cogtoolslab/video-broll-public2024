@@ -17,7 +17,7 @@ Half of participants helped produce _informative_ videos intended to help viewer
 </p>
 
 # Results
-### Parts of speech analysis
+### Measuring impact of content creation goals on human visual concept selection
 Participants prioritizing informativity highlighted more proper nouns and fewer nouns and adverbs, relative to those prioritizing entertainment. We did not find significant differences in the frequency of verbs or adjectives between goal conditions. 
 
 However, we compared the proportion of proper nouns, nouns, adjectives, verbs, and adverbs in participants' highlighted text segments against the base rate of proper nouns, nouns, adjectives, verbs, and adverbs in the transcripts. Across both conditions, participants highlighted more adjectives but fewer verbs, relative to the transcript base rate of adjectives and verbs.
