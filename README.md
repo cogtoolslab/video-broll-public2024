@@ -42,7 +42,14 @@ By contrast, word concreteness has been shown to increase memorability \cite{fli
 
 We also evaluated how large language models, like GPT-3.5 and GPT-4, performed on the same task.
 
-### Results
+# Results
+We found that participants tended 
 <p align="center" style="font-size: smaller">
   <img width="100%" src="repo_mats/models.png"></img>
 </p>
+
+## How to navigate this repository
+See `/web_experiment/` for our web experiment for collecting transcript annotations. This experiment was built using JsPsych: https://www.jspsych.org/7.2/
+
+• `/results/csv/processed/` contains csv results files <br>
+• `/js/` contains JsPsych plugins, as well as custom written plugins <br>
